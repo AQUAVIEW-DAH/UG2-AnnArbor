@@ -1,0 +1,10 @@
+aquaviewcache/
+├── {mission_id}.json
+├── {mission_id}/
+│   ├── {collection_event_id}.json
+│   └── {collection_event_id}/
+│       ├── {data_id1}.{extension}
+│       ├── {data_id1}.json
+│       ├── {data_id2}.{extension}
+│       ├── {data_id2}.json
+│       └── ...

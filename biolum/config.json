@@ -1,0 +1,26 @@
+{
+    "base_url": "https://wfh1llc30j.execute-api.us-east-2.amazonaws.com",
+    "default_bucket": "aquaviewdata",
+    "main_directory": "aquaviewcache",
+    "missions": [
+      {
+        "mission_id": "62d02a3199bcfe47b19d470f",
+        "download_all_collection_events": false,
+        "collection_events": [
+          "62fb9e212cd4294a76ea419d"
+        ]
+      },
+      {
+        "mission_id": "66c5032560098b1260afed72",
+        "download_all_collection_events": true
+      },
+      {
+        "mission_id": "66c5031460098b1260afe96c",
+        "download_all_collection_events": true
+      },
+      {
+        "mission_id": "66c502f660098b1260afe363",
+        "download_all_collection_events": true
+      }
+    ]
+  }
